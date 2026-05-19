@@ -68,6 +68,35 @@ Currently Exploring:
 
 </div>
 
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BabarZargar&theme=tokyo-night&hide_border=true&bg_color=000000"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0d0d0d&height=120&section=footer"/>
+
+</div>
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=BabarZargar&theme=tokyonight&hide_border=true&background=000000"/>
+
+</div>
+
 
 
 <div align="center">
