@@ -46,19 +46,7 @@ Currently Exploring:
 
 </div>
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BabarZargar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabarZargar&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
