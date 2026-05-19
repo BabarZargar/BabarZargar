@@ -68,56 +68,7 @@ Currently Exploring:
 
 </div>
 
----
 
-# 🚀 Featured Projects
-
-## 📌 Machine Learning Journey
-> Exploring machine learning concepts, models, experiments, and projects while documenting the learning process.
-
-## 📌 CS50P Solutions
-> My solutions and notes from Harvard's CS50P course.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0d0d0d&height=120&section=footer"/>
-
-</div>
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BabarZargar&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BabarZargar&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-## 📌 Machine Learning Journey
-> Exploring machine learning concepts, models, experiments, and projects while documenting the learning process.
-
-## 📌 CS50P Solutions
-> My solutions and notes from Harvard's CS50P course.
-
----
 
 <div align="center">
 
