@@ -89,8 +89,3 @@ Currently Exploring:
 
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0d0d0d&height=120&section=footer"/>
-
-</div>
