@@ -28,7 +28,7 @@
 ```yaml
 Name: Babar Zargar
 Location: Kashmir, India
-Education: Electronics Engineering @ NIT Srinagar
+Education: Electronics and Communication Engineering @ NIT Srinagar
 
 Currently Exploring:
   - Machine Learning
