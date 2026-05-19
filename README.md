@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:8B0000&height=250&section=header&text=Babar%20Zargar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=Electronics+Engineer+from+NIT+Srinagar;Machine+Learning+Explorer;Python+%7C+C+%7C+C%2B%2B;Building+cool+things+one+commit+at+a+time..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=Electronics+Engineer+from+NIT+Srinagar;Machine+Learning+Explorer;Python+Developer;Building+cool+things+one+commit+at+a+time..." />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,github,vscode" />
 
 </div>
 
@@ -52,10 +52,39 @@ Currently Exploring:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BabarZargar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BabarZargar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabarZargar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabarZargar&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=BabarZargar&theme=tokyonight&hide_border=true&background=000000"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Machine Learning Journey
+> Exploring machine learning concepts, models, experiments, and projects while documenting the learning process.
+
+## 📌 CS50P Solutions
+> My solutions and notes from Harvard's CS50P course.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0d0d0d&height=120&section=footer"/>
+
+</div>
 </div>
 
 ---
