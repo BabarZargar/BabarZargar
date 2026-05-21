@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/github_profile_README.md << 'EOF'
 <div align="center">
 
 # Hey, I'm Babar Haneef Zargar 👋
