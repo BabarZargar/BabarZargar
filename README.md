@@ -9,26 +9,11 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a student from Jammu & Kashmir, India, on a mission to break into Machine Learning and Data Science.
-
-I started from zero — not knowing what a variable was — and recently completed **CS50's Introduction to Programming with Python** by Harvard University, earning a certificate signed by David J. Malan himself.
-
-Now I'm deep into the Python data science stack, working my way towards Andrew Ng's Machine Learning Specialization on Coursera.
-
-I believe in learning in public, committing every day, and building things that solve real problems.
-
----
-
 ## 🚀 What I'm Currently Doing
 
 - 📖 Learning **NumPy, Pandas, and Matplotlib** — the foundation of every ML engineer
 - ⏳ Waiting on financial aid approval for **Andrew Ng's ML Specialization** on Coursera
 - 🗃️ Building and maintaining **Stash** — my CS50P final project
-- 🟩 Trying to keep the GitHub contribution graph green every single day
 
 ---
 
