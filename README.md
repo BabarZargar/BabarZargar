@@ -86,9 +86,7 @@
 
 <div align="center">
 
-*"An investment in knowledge pays the best interest."*
-
-⭐ Feel free to explore my repositories and reach out!
+ Feel free to explore my repositories and reach out!
 
 </div>
 
