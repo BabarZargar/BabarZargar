@@ -1,67 +1,63 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Babar%20Haneef%20Zargar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20CS50P%20Certified%20%7C%20Kashmir%2C%20India%20🏔️&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Babar%20Haneef%20Zargar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS50P%20Certified%20%7C%20Aspiring%20ML%20Engineer%20%7C%20Kashmir%2C%20India%20🏔️&descAlignY=55&descAlign=50" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=from+zero+to+machine+learning;Harvard+CS50P+Certified+%F0%9F%8E%93;Building+my+second+brain+with+Python;The+future+Pirate+King+of+ML+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=CS50P+Certified+%F0%9F%8E%93;Moving+towards+Machine+Learning;That's+what+she+said.+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/babarzargar95)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabarZargar)
-[![CS50P](https://img.shields.io/badge/Harvard-CS50P%20Certified-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/9131cc52-4ee6-4c97-b7d3-ed8f8ccb7a89)
+[![CS50P](https://img.shields.io/badge/Harvard-CS50P%20Certified-A51C30?style=for-the-badge&logoColor=white)](https://cs50.harvard.edu/certificates/9131cc52-4ee6-4c97-b7d3-ed8f8ccb7a89)
 
 </div>
 
 ---
 
-<img align="right" alt="coding luffy" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3eTVxZjFxMzVmZmxqNmJxNmJxNmJxNmJxNmJxNmJxNmJxNg/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Michael Scott" width="280" src="https://media.giphy.com/media/lJnAXeJO8tE7E37mxq/giphy.gif" />
 
-## 🏴‍☠️ About Me
+## 🖨️ About Me
 
 ```python
 class BabarHaneef:
     def __init__(self):
-        self.name     = "Babar Haneef Zargar"
-        self.location = "Kashmir, India 🏔️"
-        self.goal     = "Pirate King of ML 🏴‍☠️"
-        self.status   = "Learning every single day"
+        self.name      = "Babar Haneef Zargar"
+        self.location  = "Kashmir, India 🏔️"
+        self.title     = "World's Best ML Engineer (self-declared)"
         
-    def current_quest(self):
+    def current_arc(self):
         return [
-            "📖 Mastering NumPy, Pandas & Matplotlib",
+            "✅ Completed CS50P — Harvard University",
+            "📖 NumPy, Pandas, Matplotlib",
             "⏳ Andrew Ng's ML Specialization",
-            "🗃️ Building Stash — my second brain",
-            "🟩 Keeping the GitHub graph green",
+            "🗃️ Building and maintaining Stash",
         ]
         
-    def dream(self):
-        return "Just like Luffy never gives up on being King — I never give up on ML 🌊"
+    def motto(self):
+        return "I am Beyoncé, always. — Michael Scott"
 ```
 
 ---
 
-## ⚔️ My Journey So Far
+## 📋 Where I Am
 
 <div align="center">
 
 ```
-🌱 Started from zero               ──────────────────────► ✅
-📚 CS50P (Harvard)                 ──────────────────────► ✅ CERTIFIED
-🔢 NumPy                           ──────────────────────► 🔄 In Progress  
-🐼 Pandas                          ──────────────────────► ⏳ Coming Soon
-📊 Matplotlib                      ──────────────────────► ⏳ Coming Soon
-🤖 Andrew Ng's ML Specialization   ──────────────────────► ⏳ Coming Soon
-🧠 Deep Learning                   ──────────────────────► ⏳ The Grand Line
+✅ CS50P — Harvard University
+🔄 NumPy · Pandas · Matplotlib
+⏳ Andrew Ng's ML Specialization
+⏳ Deep Learning
+⏳ Real world ML Projects
 ```
 
 </div>
 
 ---
 
-## 🛠️ Skills & Arsenal
+## 🛠️ Skills
 
 <div align="center">
 
@@ -90,14 +86,12 @@ class BabarHaneef:
 
 ---
 
-## 🗃️ Featured Projects
+## 📌 Projects
 
-### Stash — Your Second Brain
-> *"We save things to remember. We never find them again. Until now."*
+### 🗃️ Stash — Your Second Brain
+> A CLI tool that automatically categorizes anything you want to remember — links, meetings, passwords, ideas — using regex and keyword scoring. 24 pytest tests, all passing.
 
-A CLI tool that automatically categorizes anything you want to remember — links, meetings, passwords, ideas — using regex pattern matching and keyword scoring. 24 pytest tests, all passing.
-
-[![Stash Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar)
+[![Stash Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar/stash)
 [![Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/qaldgBsRIxU?si=-hT-RK27n_7FgmRs)
 
 ---
@@ -105,7 +99,7 @@ A CLI tool that automatically categorizes anything you want to remember — link
 ### 🧠 ML Journey
 > Every notebook, every concept, every step of my road to machine learning — documented in public.
 
-[![ML Journey](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar)
+[![ML Journey](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar/ml-journey)
 
 ---
 
@@ -137,16 +131,12 @@ A CLI tool that automatically categorizes anything you want to remember — link
 
 ---
 
-<!-- Luffy at the bottom -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k1cWZpNXpmMnp6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6NnZ6Ng/13HBDT4QSTpveU/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 
-### *"I don't want to conquer anything. I just think the guy with the most freedom in the whole world is the Pirate King!"* 🏴‍☠️
-
-**— Monkey D. Luffy**
-
-*That's my approach to learning too. No shortcuts, no giving up, just moving forward.*
+### *"Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."*
+**— Michael Scott**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 
