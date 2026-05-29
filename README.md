@@ -14,7 +14,6 @@
 
 ---
 
-<img align="right" alt="Dwight" width="260" style="margin-top: 40px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnljdzdxZmdhMGpocG9ycWlzbG84NXY4eG9hdGVwdzVhOHdrNzlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G5eO2XaXAly5a/giphy.gif" />
 
 ## 🖨️ About Me
 
@@ -45,7 +44,7 @@ class BabarHaneef:
         # Michael Scott, 2009. Still relevant.
         return "I am Beyoncé, always."
 ```
-
+<img align="right" alt="Dwight" width="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnljdzdxZmdhMGpocG9ycWlzbG84NXY4eG9hdGVwdzVhOHdrNzlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G5eO2XaXAly5a/giphy.gif" />
 ---
 
 ## ⚠️ Threat Assessment
