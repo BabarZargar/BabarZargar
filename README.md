@@ -53,7 +53,6 @@ class BabarHaneef:
 *As Dwight would say: "Before I do anything I ask myself, would an idiot do that? And if the answer is yes, I do not do that thing."*
 
 <div align="center">
-<img align="right" alt="Dwight Schrute" width="260" src="https://media.giphy.com/media/3ohs4rkYvzISB83cqY/giphy.gif" />
 
 | 🎯 Skill | 📈 Status | 🔴 Threat Level |
 |----------|-----------|-----------------|
