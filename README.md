@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Dwight stare" width="260" src="https://media.giphy.com/media/3ohs4rkYvzISB83cqY/giphy.gif" />
+<img align="right" alt="Dwight Schrute" width="260" src="https://media.giphy.com/media/3ohs4rkYvzISB83cqY/giphy.gif" />
 
 ## 🖨️ About Me
 
