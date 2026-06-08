@@ -68,8 +68,9 @@ class BabarHaneef:
 | 🎯 Skill | 📈 Status | 🔴 Threat Level |
 |----------|-----------|-----------------|
 | Python | ██████████ Certified | **MEDIUM-HIGH** |
-| NumPy / Pandas | ████████░░ Active | **MEDIUM** |
-| Matplotlib | ███████░░░ Learning | **MEDIUM** |
+| NumPy  | ██████████ Completed | **MEDIUM-HIGH** |
+| Pandas | ██████████ Completed | **MEDIUM-HIGH** |
+| Matplotlib | ████████░░ Learning | **MEDIUM** |
 | Machine Learning | ████░░░░░░ In Progress | **LOW (for now)** |
 | Deep Learning | ██░░░░░░░░ Upcoming | **DORMANT** |
 | ML in Production | ░░░░░░░░░░ Future | **DO NOT ENGAGE YET** |
