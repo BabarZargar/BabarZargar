@@ -70,8 +70,8 @@ class BabarHaneef:
 | Python | ██████████ Certified | **MEDIUM-HIGH** |
 | NumPy  | ██████████ Completed | **MEDIUM-HIGH** |
 | Pandas | ██████████ Completed | **MEDIUM-HIGH** |
-| Matplotlib | ████████░░ Learning | **MEDIUM** |
-| Machine Learning | ████░░░░░░ In Progress | **LOW (for now)** |
+| Matplotlib | ██████████ Completed | **MEDIUM-HIGH** |
+| Machine Learning | ████░░░░░░ Week 2 | **LOW (for now)** |
 | Deep Learning | ░░░░░░░░░░ Upcoming | **DORMANT** |
 | ML in Production | ░░░░░░░░░░ Future | **DO NOT ENGAGE YET** |
 
