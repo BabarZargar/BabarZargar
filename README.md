@@ -15,7 +15,7 @@
 ---
 
 
-## 🖨️ About Me
+##  About Me
 
 <table>
 <tr>
@@ -59,13 +59,13 @@ class BabarHaneef:
 </table>
 
 
-## ⚠️ Threat Assessment
+##  Threat Assessment
 
 *As Dwight would say: "Before I do anything I ask myself, would an idiot do that? And if the answer is yes, I do not do that thing."*
 
 <div align="center">
 
-| 🎯 Skill | 📈 Status | 🔴 Threat Level |
+|  Skill |  Status |  Threat Level |
 |----------|-----------|-----------------|
 | Python | ██████████ Certified | **MEDIUM-HIGH** |
 | NumPy  | ██████████ Completed | **MEDIUM-HIGH** |
@@ -108,7 +108,7 @@ class BabarHaneef:
 
 ---
 
-## 📌 Projects
+##  Projects
 
 ### 🗃️ Stash — Your Second Brain
 > A CLI tool that automatically categorizes anything you want to remember — links, meetings, passwords, ideas — using regex and keyword scoring.
@@ -122,7 +122,7 @@ class BabarHaneef:
 
 ---
 
-### 🧠 ML Journey
+###  ML Journey
 > Every notebook, every concept, every painful mistake — documented in public.
 > Because *"that's what she said"* is not a valid loss function.
 
@@ -130,7 +130,7 @@ class BabarHaneef:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -143,7 +143,7 @@ class BabarHaneef:
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 <div align="center">
 
