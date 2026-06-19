@@ -79,7 +79,7 @@ class BabarHaneef:
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <div align="center">
 
