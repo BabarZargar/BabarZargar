@@ -25,7 +25,7 @@
 class BabarHaneef:
     def __init__(self):
         self.name      = "Babar Haneef Zargar"
-        self.location  = "Kashmir, India "
+        self.location  = "Srinagar, Kashmir, India "
         self.title     = "World's Best ML Engineer (self-declared, unverified, non-negotiable)"
         self.spirit_animal = "Dwight K. Schrute"
 
