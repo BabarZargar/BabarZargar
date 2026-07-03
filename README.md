@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Babar%20Haneef%20Zargar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS50P%20Certified%20%7C%20Aspiring%20ML%20Engineer%20%7C%20Kashmir%2C%20India&descAlignY=55&descAlign=50" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=650&lines=CS50P+Certified+%F0%9F%8E%93;Becoming+an+ML+Engineer+(allegedly);Bears.+Beets.+Machine+Learning." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Babar%20Haneef%20Zargar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS50P%20Certified%20🎓%20|%20Becoming%20an%20ML%20Engineer%20(allegedly)%20|%20Bears.%20Beets.%20Machine%20Learning.&descAlignY=58&descAlign=50" />
+
+</div>
 
 <br/>
 
