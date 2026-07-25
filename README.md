@@ -32,9 +32,10 @@ class BabarHaneef:
 
     def current_arc(self):
         return {
-            "done":    "CS50P — Harvard ",
-            "doing":   "NumPy, Pandas, Matplotlib ",
-            "next":    "Andrew Ng's ML Specialization ",
+            "done":    "CS50P-Harvard, NumPy, Pandas, Matplotlib",
+            "done":    "Andrew Ng's ML Specialization Course 1",
+            "doing":   "Andrew Ng's ML Specialization Course 2",
+            "next":    "Andrew Ng's ML Specialization Course 3",
             "destiny": "Real-world ML projects that actually work",
         }
 
