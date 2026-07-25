@@ -72,9 +72,9 @@ class BabarHaneef:
 | NumPy  | ██████████ Completed | **MEDIUM-HIGH** |
 | Pandas | ██████████ Completed | **MEDIUM-HIGH** |
 | Matplotlib | ██████████ Completed | **MEDIUM-HIGH** |
-| Machine Learning | ████░░░░░░ Week 2 | **LOW (for now)** |
-| Deep Learning | ░░░░░░░░░░ Upcoming | **DORMANT** |
-| ML in Production | ░░░░░░░░░░ Future | **DO NOT ENGAGE YET** |
+| Supervised ML | ██████████ Certified | **MEDIUM-HIGH** |
+| Advanced Learning Algo | █░░░░░░░░░ Started | **DORMANT** |
+| Unsupervised ML | ░░░░░░░░░░ Future | **DO NOT ENGAGE YET** |
 
 </div>
 
