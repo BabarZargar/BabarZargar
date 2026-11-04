@@ -141,7 +141,7 @@ class BabarHaneef:
 ## Projects
 
 ### 🗃️ Stash — Your Second Brain
-> A CLI tool that automatically categorizes anything you want to remember — links, meetings, passwords, ideas — using regex and keyword scoring.
+> A CLI tool that automatically categorizes anything you want to remember: links, meetings, passwords and ideas using regex and keyword scoring.
 > **24 pytest tests. All passing. Dwight-approved.**
 
 [![Stash Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar/stash)
@@ -164,7 +164,7 @@ class BabarHaneef:
 ---
 
 ###  ML Journey
-> Every notebook, every concept, every painful mistake — documented in public.
+> Every notebook, every concept, every painful mistake documented in public.
 > Because *"that's what she said"* is not a valid loss function.
 
 [![ML Journey](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar/ml-journey)
