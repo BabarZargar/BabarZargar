@@ -123,16 +123,16 @@ class BabarHaneef:
 
 ## Research — Gaash Lab, NIT Srinagar
 
-### 🎙️ Kashmiri ASR *(ongoing)*
+###  Kashmiri ASR *(ongoing)*
 > Treating Kashmiri as the low-resource language it is — and doing something about it.
 > Benchmarking **Whisper (large-v3, turbo)**, **OWSM v4 / v4-CTC**, IndicConformer and Meta Omnilingual on the RASA Kashmiri test set, scoring WER/CER with a Kashmiri-specific normalizer.
 > **Next:** fine-tune on Kashmiri speech, curate a benchmark dataset, and go after an A* publication.
 
-*"Whenever I'm about to do something, I think, 'Would an idiot do that?'" — Whisper, guessing the language is Urdu.*
+*"Whenever I'm about to do something, I think, 'Would an idiot do that?'" Whisper, guessing the language is Urdu.*
 
 ---
 
-### 🥉 KATHE 2026 — English → Kashmiri Translation
+###  KATHE 2026 — English → Kashmiri Translation
 > Fine-tuned **IndicTrans2 (200M)** on 16,000+ BPCC / Hugging Face sentence pairs, 5 epochs on a single Tesla T4.
 > **Geometric-mean BLEU/chrF: 15.55** · Top 5 on stage · **3rd overall** in Gaash Lab's competition.
 
@@ -151,21 +151,21 @@ class BabarHaneef:
 
 ---
 
-### 🏛️ Smart India Hackathon 2026 — Team Tabaq Ma:z
+###  Smart India Hackathon 2026 — Team Tabaq Ma:z
 > AI recommendation engine for Indian Standards in procurement (SIH26108). Cleared the internal round with a working prototype.
 
 [![SIH Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Aatif-wani/sih26108-Tabaq-ma-z)
 
 ---
 
-### 🗺️ Freshers' Campus Guide
+###  Freshers' Campus Guide
 > An interactive React map of NIT Srinagar, so no fresher ever wanders into the wrong building like Michael at a Chili's.
 
 [![Campus Guide Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar/campusGuide)
 
 ---
 
-### 📓 ML Journey
+###  ML Journey
 > Every notebook, every concept, every painful mistake — documented in public.
 > Because *"that's what she said"* is not a valid loss function.
 
@@ -173,11 +173,6 @@ class BabarHaneef:
 
 ---
 
-### 🔒 Classified — Deepfake Detector *(coming after exams)*
-> Real faces have a heartbeat. Deepfakes don't. That's all I'm saying for now.
-> *"I am fast. To give you a reference point, I am somewhere between a snake and a mongoose."*
-
----
 
 ## GitHub Stats
 
@@ -196,7 +191,7 @@ class BabarHaneef:
 
 <div align="center">
 
-| 🏆 Achievement | 🏛️ Institution | 📅 Year |
+|  Achievement |  Institution |  Year |
 |---------------|----------------|---------|
 | 3rd Place — KATHE 2026 (English→Kashmiri MT) | Gaash Research Lab, NIT Srinagar | 2026 |
 | Internal Round Qualifier — Smart India Hackathon | NIT Srinagar | 2026 |
