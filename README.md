@@ -36,7 +36,6 @@ class BabarHaneef:
                          "Benchmarking ASR models on Kashmiri speech"],
             "next":     ["ML Specialization – Course 3",
                          "Fine-tuning ASR on Kashmiri"],
-            "destiny":  "A Kashmiri ASR paper at an A* conference",
         }
 
     def fun_facts(self):
@@ -126,7 +125,6 @@ class BabarHaneef:
 ###  Kashmiri ASR *(ongoing)*
 > Treating Kashmiri as the low-resource language it is — and doing something about it.
 > Benchmarking **Whisper (large-v3, turbo)**, **OWSM v4 / v4-CTC**, IndicConformer, Bodhan and Meta Omnilingual on the RASA Kashmiri test set, scoring WER/CER with a Kashmiri-specific normalizer.
-> **Next:** fine-tune on Kashmiri speech, curate a benchmark dataset, and go after an A* publication.
 
 *"Whenever I'm about to do something, I think, 'Would an idiot do that?'" Whisper, guessing the language is Urdu.*
 
